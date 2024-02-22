@@ -1,12 +1,8 @@
 <h2 align="left">Hi 👋! My name is Diksha Shinde and I'm a IT student from SPPU university </h2>
-<h3 aling="centre"> ABOUT ME: I'm Diksha Shinde, a second-year IT student at SPPU University with a passion for learning new technologies. 
+<h3 aling="centre"> ABOUT ME: 
+  I'm Diksha Shinde, a second-year IT student at SPPU University with a passion for learning new technologies. 
 
 ●I'm currently working towards becoming a full-stack developer, and I have a strong foundation in C++, DSA, HTML, CSS, and JavaScript. I'm also interested in AI, data science, IoT, Google Cloud, and Microsoft Azure.
-
-●In addition to my studies, I've also worked as a freelancer and achieved various internships in social media management, video editing, technical writing, and graphic design.
-
-● I'm a highly motivated and results-oriented individual with a strong work ethic. I was an second main lead anchor in my college's cultural fest and a co-ordinator of our technical collage event.
-
 I'm excited to use my skills and experience to make a positive impact on the world. I'm confident that LinkedIn will help me connect with like-minded individuals and opportunities to grow my career.
 ###
 
