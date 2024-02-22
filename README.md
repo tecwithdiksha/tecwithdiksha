@@ -13,7 +13,7 @@ I'm excited to use my skills and experience to make a positive impact on the wor
 
 ###
 
-<img align="right" height="150" src="dikshashinde.jpeg"  />
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
