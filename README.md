@@ -1,14 +1,15 @@
-<h2 align="left">Hi 👋! My name is Diksha Shinde and I'm a IT student from SPPU university </h2>
-<h3 aling="right"> ABOUT ME: 
-  I'm Diksha Shinde, a second-year IT student at SPPU University with a passion for learning new technologies. 
+<h2 align="left">Hi 👋! My name is diksha shinde and I'm a full stack web developer </h2>
+<h3 aling="right"> ABOUT ME :
+I'm Diksha Shinde, a second-year IT student at SPPU University with a passion for learning new technologies. 
 
 ●I'm currently working towards becoming a full-stack developer, and I have a strong foundation in C++, DSA, HTML, CSS, and JavaScript. I'm also interested in AI, data science, IoT, Google Cloud, and Microsoft Azure.
-I'm excited to use my skills and experience to make a positive impact on the world. I'm confident that GITHUB will help me show my work to the large audience and help tp provide me large opportunities to grow my career.
+I'm excited to use my skills and experience to make a positive impact on the world. I'm confident that guithub will help me to showup my work to a large audienece and with provide me opportunities to grow my career
+
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tecwithdiksha&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tecwithdiksha&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -49,39 +50,8 @@ I'm excited to use my skills and experience to make a positive impact on the wor
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-name: Generate snake animation
-
-on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
-
-  workflow_dispatch:
-
-  push:
-    branches:
-    - master
-
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
-
-    steps:
-      - name: generate snake.svg
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: dist/snake.svg?palette=github-dark
-
-
-      - name: push snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 ###
+
+
+    
